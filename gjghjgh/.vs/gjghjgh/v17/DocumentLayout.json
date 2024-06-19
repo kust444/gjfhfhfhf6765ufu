@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simka\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\gjfhfhfhf\\gjghjgh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69B1611-167E-48F1-9653-208A03C96122}|gjghjgh\\gjghjgh.csproj|c:\\users\\simka\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\gjfhfhfhf\\gjghjgh\\gjghjgh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69B1611-167E-48F1-9653-208A03C96122}|gjghjgh\\gjghjgh.csproj|solutionrelative:gjghjgh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simka\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\gjfhfhfhf\\gjghjgh\\gjghjgh\\Program.cs",
+              "RelativeDocumentMoniker": "gjghjgh\\Program.cs",
+              "ToolTip": "C:\\Users\\simka\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\gjfhfhfhf\\gjghjgh\\gjghjgh\\Program.cs",
+              "RelativeToolTip": "gjghjgh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:52:20.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
